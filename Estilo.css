@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+header {
+    background-color: #ff00bf;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+nav {
+    text-align: center;
+    padding: 10px;
+    background: #7ac1ff;
+}
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+section {
+    padding: 20px;
+    text-align: center;
+}
+iframe {
+    width: 60%;
+    height: 300px;
+    border: none;
+}
